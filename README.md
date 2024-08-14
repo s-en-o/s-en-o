@@ -3,6 +3,12 @@
 ### Codesmith at ☀️
 ### Beatsmith at 🌓
 
+---
+My name is Seno, I am a Front End Developer located in beautiful Aotearoa New Zealand. Currently open for work either remotely or on site.
+Check [my website](https://seno.me) or [my blog](https://sen.ooo).
+You can contact me at **work.shredding509@silomails.com**.
+---
+
 ## Activities
 <img src="https://green-wall.leoku.dev/api/og/share/s-en-o" alt="My contributions" />
 
