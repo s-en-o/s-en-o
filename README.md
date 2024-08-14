@@ -9,6 +9,13 @@ Check [my website](https://seno.me) or [my blog](https://sen.ooo).
 You can contact me at **work.shredding509@silomails.com**.
 ---
 
+### Common use tech stack
+
+| Frontend      | Backend      | Database |
+| ------------- | ------------- | --------- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/320px-MongoDB_Logo.svg.png" alt="Mongodb" />|
+| [Electron JS](https://www.electronjs.org/) | [Payload CMS](https://payloadcms.com/) | [GraphQL](https://graphql.org/) |
+
 ## Activities
 <img src="https://green-wall.leoku.dev/api/og/share/s-en-o" alt="My contributions" />
 
