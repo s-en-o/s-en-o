@@ -4,16 +4,14 @@
 ### Beatsmith at 🌓
 
 ---
-My name is Seno, I am a Front End Developer located in beautiful Aotearoa New Zealand. Currently open for work either remotely or on site.
-Check [my website](https://seno.me) or [my blog](https://sen.ooo).
-You can contact me at **work.shredding509@silomails.com**.
+Hello! This is Seno, I am a Front End Developer located in beautiful Aotearoa New Zealand🔥. Open for work for both permanent or contract work. Check [my website](https://seno.me) for more details and if you have any question [get in touch](mailto:hello@seno.me).
 ---
 
 ### Common use tech stack
 
 | Frontend      | Backend      | Database |
 | ------------- | ------------- | --------- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/320px-MongoDB_Logo.svg.png" alt="Mongodb" />|
+| Vue.js, React.js, Nuxt.js, Next.js, Astro | Express.js, Nest.js | MongoDB|
 | [Electron JS](https://www.electronjs.org/) | [Payload CMS](https://payloadcms.com/) | [GraphQL](https://graphql.org/) |
 
 ## Activities
