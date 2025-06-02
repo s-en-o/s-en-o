@@ -4,7 +4,7 @@
 ### Beatsmith at 🌓
 
 ---
-Hello! This is Seno, I am a [Front End Developer](https://seno.me) located in beautiful Aotearoa New Zealand🔥. [Get in touch](mailto:hello@seno.me).
+Kia Ora, this is Seno, a [Front End Developer](https://seno.me) located in beautiful Aotearoa New Zealand🔥. Looking for a friend? why not [get in touch](mailto:hello@seno.me).
 ---
 
 ### Common use tech stack
